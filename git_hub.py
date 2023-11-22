@@ -9,8 +9,8 @@ guva_size = 100
 """
  name          : AnandhS
  created       : 17.11.2023
- last modified : 21.11.2023
- version       : pycharm 3.
+ last modified : 22.11.2023
+ version       : pycharm 2022.2.2
 """
 
 print(f"""fruits list :
